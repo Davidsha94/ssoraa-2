@@ -1,0 +1,5 @@
+{
+  "name": "SoraCleaner",
+  "description": "An AI-powered video restoration tool designed to remove watermarks (like Sora 2) by reconstructing video content using Gemini Vision and Veo capabilities.",
+  "requestFramePermissions": []
+}
